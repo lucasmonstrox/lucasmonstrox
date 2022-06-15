@@ -1,4 +1,4 @@
-## Stats & Top Languages
+## Stats & Most used languages
 
 <div align="center">
   <a href="https://github.com/FernandoMos92">
