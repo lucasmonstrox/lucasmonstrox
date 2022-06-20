@@ -8,6 +8,8 @@ Currently I'm:
   - [JavaScript - Brazil](https://www.facebook.com/groups/1657010324575146)  
 - Streaming my projects on [twitch.tv/lucasmonstrocs](https://www.twitch.tv/lucasmonstrocs) 📺
 - Owner of [PyTibia](https://github.com/lucasmonstro/pytibia) (Fastest Tibia PixelBot) 🤖
+- Fanatic of uncle bob's books 📚:
+  - [Clean Architecture](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 
 ## Stats & Most used languages
 
