@@ -11,13 +11,6 @@
   - [Clean Code](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - [Clean Coder](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
-## Stats & Most used languages
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmonstro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmonstro&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-</div>
-
 ## Favourite Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,6 +20,13 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+
+## Stats & Most used languages
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmonstro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmonstro&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+</div>
 
 ## Pay me a coffee
 
