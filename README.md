@@ -3,7 +3,6 @@
 <div>
 <div>
 Currently I'm:
-
 - Leading Software projects using Clean Architecture 🧼
 - Mentoring great developers 👨‍🏫
 - Supporting and managing the community 🗣️:  
