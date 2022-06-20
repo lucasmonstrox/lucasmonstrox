@@ -28,7 +28,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmonstro&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
 </div>
 
-## Pay me a coffee
+## Buy me a coffee
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X5DDD4Z)
 
