@@ -6,7 +6,7 @@ Currently I'm:
 - Supporting and managing the community:  
   - [JavaScript - Brazil](https://www.facebook.com/groups/1657010324575146)  
   - [Angular 14.0](https://www.facebook.com/groups/100629347147514)  
-- Streaming my projects on [@lucasmonstrocs](https://www.twitch.tv/lucasmonstrocs)
+- Streaming my projects on [twitch.tv/lucasmonstrocs](https://www.twitch.tv/lucasmonstrocs)
 
 ## Stats & Most used languages
 
