@@ -6,8 +6,8 @@ Currently I'm:
 - 🗣️ Supporting and managing the community:  
   - [Angular 14.0](https://www.facebook.com/groups/100629347147514)   
   - [JavaScript - Brazil](https://www.facebook.com/groups/1657010324575146)
-- Streaming the development of [PyTibia](https://github.com/lucasmonstro/pytibia) on [twitch.tv/lucasmonstrocs](https://www.twitch.tv/lucasmonstrocs) 📺
-- Fanatic of uncle bob's books 📚:
+- 📺 Streaming the development of [PyTibia](https://github.com/lucasmonstro/pytibia) on [twitch.tv/lucasmonstrocs](https://www.twitch.tv/lucasmonstrocs)
+- 📚 Fanatic of uncle bob's books:
   - [Clean Architecture](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
   - [Clean Code](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - [Clean Coder](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
