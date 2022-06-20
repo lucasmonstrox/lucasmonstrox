@@ -12,6 +12,7 @@ Currently I'm:
 </div>
 
 <div>
+Hobbies:
 - Streaming my projects on [twitch.tv/lucasmonstrocs](https://www.twitch.tv/lucasmonstrocs) 📺
 - Owner of [PyTibia](https://github.com/lucasmonstro/pytibia) (Fastest Tibia PixelBot) 🤖
 - Fanatic of uncle bob's books 📚:
