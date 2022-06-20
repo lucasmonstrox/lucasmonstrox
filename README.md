@@ -12,6 +12,7 @@ Currently I'm:
 - Fanatic of uncle bob's books 📚:
   - [Clean Architecture](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
   - [Clean Code](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+  - [Clean Corder](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
 ## Stats & Most used languages
 
