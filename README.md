@@ -1,6 +1,11 @@
-## Hello 👋, I'm lucasmonstro
+## Hello 👋, my name is lucasmonstro
 
-### Currently
+Currently I'm:
+
+- Leading Software projects using Clean Architecture 🧼
+- Admin of:
+-- [JavaScript - BrazilJ(https://www.facebook.com/groups/1657010324575146)
+-- [Angular 14.0](https://www.facebook.com/groups/100629347147514)
 
 ## Stats & Most used languages
 
