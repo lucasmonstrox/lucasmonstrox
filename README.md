@@ -1,4 +1,4 @@
-## Hello 👋, my name is lucasmonstro and currently I'm:
+## Hello 👋, people call me lucasmonstro and currently I'm:
 
 - 🧼 Leading Software projects using Clean Architecture 
 - 👨‍🏫 Mentoring great developers 
