@@ -38,12 +38,6 @@
 ## Social Network
 
 <div align="left">
-  <a href="lucasmonstro#7433" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="32" alt="discord logo"  />
-  </a>
-  <a href="mailto:joao.galiano.silva@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="32" alt="gmail logo"  />
-  </a>
   <a href="https://www.instagram.com/lucasmonstrocs/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="32" alt="instagram logo"  />
   </a>
