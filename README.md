@@ -35,7 +35,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X5DDD4Z)
 
-## Social Network
+## Social Networks
 
 <div align="left">
   <a href="https://www.instagram.com/lucasmonstrocs/" target="_blank">
