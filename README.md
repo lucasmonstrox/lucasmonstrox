@@ -6,7 +6,7 @@
 - 📺 Streaming the development of [PyTibia](https://github.com/lucasmonstro/pytibia) PixelBot on [twitch.tv/lucasmonstrocs](https://www.twitch.tv/lucasmonstrocs)
 - 📚 Fanatic of Uncle Bob's books: [Clean Architecture](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164), [Clean Code](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), [Clean Coder](https://www.amazon.co.uk/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
 
-## Favourite Stack(Languages, Front-End, Back-End, Devops)
+## Favourite Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
