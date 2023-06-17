@@ -3,7 +3,7 @@
 - 🧼 Leading Software projects using Clean Architecture 
 - 👨‍🏫 Mentoring great developers 
 - 🗣️ Supporting and managing the community: [Angular 15.0](https://www.facebook.com/groups/100629347147514), [JavaScript - Brazil](https://www.facebook.com/groups/1657010324575146)
-- 📺 Streaming the development of [PyTibia](https://github.com/lucasmonstro/PyTibia) PixelBot on [twitch.tv/lucasmonstrocs](https://www.twitch.tv/lucasmonstrocs)
+- 📺 Streaming the development of [PyTibia](https://github.com/lucasmonstrox/PyTibia) PixelBot on [twitch.tv/lucasmonstrocs](https://www.twitch.tv/lucasmonstrox)
 - 📚 Uncle Bob's book fanatic: [Clean Architecture](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) & [Clean Code](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
 ## Favourite Stack
@@ -41,8 +41,8 @@
 ## Stats & Most used languages
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmonstro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmonstro&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmonstrox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmonstrox&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
 </div>
 
 ## Pay me a coffee
@@ -52,16 +52,16 @@
 ## Social Networks
 
 <div align="left">
-  <a href="https://www.instagram.com/lucasmonstrocs/" target="_blank">
+  <a href="https://www.instagram.com/lucasmonstrox/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="32" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/lucasmonstro/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucasmonstrox/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="32" alt="linkedin logo"  />
   </a>
-  <a href="https://www.twitch.tv/lucasmonstrocs" target="_blank">
+  <a href="https://www.twitch.tv/lucasmonstrox" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="32" alt="twitch logo"  />
   </a>
-  <a href="https://twitter.com/lucasmonstrocs" target="_blank">
+  <a href="https://twitter.com/lucasmonstrox" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="32" alt="twitter logo"  />
   </a>
 </div>
