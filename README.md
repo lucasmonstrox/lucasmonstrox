@@ -47,7 +47,7 @@
 
 ## Pay me a coffee
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X5DDD4Z)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lucasmonstrox)
 
 ## Social Networks
 
