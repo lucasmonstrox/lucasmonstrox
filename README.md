@@ -1,6 +1,6 @@
 ## Hello 👋, people call me lucasmonstro and currently I'm:
 
-- 🧼 Leading Software projects using Clean Architecture 
+- 🧼 Leading amazing Software projects
 - 👨‍🏫 Mentoring great developers 
 - 🗣️ Supporting and managing the community: [Angular 15.0](https://www.facebook.com/groups/100629347147514), [JavaScript - Brazil](https://www.facebook.com/groups/1657010324575146)
 - 📺 Streaming the development of [PyTibia](https://github.com/lucasmonstrox/PyTibia) PixelBot on [twitch.tv/lucasmonstrox](https://www.twitch.tv/lucasmonstrox)
