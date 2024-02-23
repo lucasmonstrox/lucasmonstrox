@@ -4,6 +4,7 @@
 - 👨‍🏫 Mentoring great developers 
 - 🗣️ Supporting and managing the community
 - 📺 Streaming the development of [PyTibia](https://github.com/lucasmonstrox/PyTibia) PixelBot on [twitch.tv/lucasmonstrox](https://www.twitch.tv/lucasmonstrox)
+- 🧠 Learning AI stuffs
 
 ## Favourite Stack
 
